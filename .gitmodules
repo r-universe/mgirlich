@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "jsontools"]
+	path = jsontools
+	url = https://github.com/mgirlich/jsontools
+	shallow = true
+	registered = true
 [submodule "tibblify"]
 	path = tibblify
 	url = https://github.com/mgirlich/tibblify

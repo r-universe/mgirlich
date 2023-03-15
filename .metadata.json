@@ -1,5 +1,9 @@
 [
   {
+    "package": "jsontools",
+    "oncran": true
+  },
+  {
     "package": "tibblify",
     "oncran": true
   }
